@@ -117,6 +117,9 @@ git token :- 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
 
 git remote set-url origin https://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@github.com/ajinkya111122/demo
 
+git clone https://github.com/ajinkya111122/demo.git
+(wherever you want to clone the file just run above clone command)
+
 
 
 

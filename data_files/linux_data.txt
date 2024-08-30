@@ -120,6 +120,11 @@ git remote set-url origin https://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@githu
 git clone https://github.com/ajinkya111122/demo.git
 (wherever you want to clone the file just run above clone command)
 
+$ git log -p -1 3081a0eb04fc6e95522d3666ad820dd5fef00bea
+shows the details for above log.
+
+Git Branching / Merging.
+
 
 
 

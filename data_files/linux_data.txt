@@ -125,6 +125,14 @@ shows the details for above log.
 
 Git Branching / Merging.
 
+Git Conflict.
+
+1. Multiple developers edit the same lines of code.
+2. The same file is modified in different ways in two separate branches.
+
+In simple terms, a Git conflict is like a disagreement between different versions of a file, and Git needs human help to resolve the dispute!
+
+Git Forking / Pull Requests.
 
 
 

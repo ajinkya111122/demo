@@ -134,6 +134,9 @@ In simple terms, a Git conflict is like a disagreement between different version
 
 Git Forking / Pull Requests.
 
+1. Create a personal copy of someone else's repository (the original repo).
+2. Make changes to your copy (the forked repo) without affecting the original repo.
+3. Experiment, test, or add new features without disturbing the main project.
 
 
 *****************Alias***************

@@ -1,0 +1,12 @@
+**********************LOG Analysis ****************************
+
+what are logs :- a log file store events, process, messages, and other data from applications, os or devices. which is useful for monitoring.
+
+bootstrap logs :- system reboot logs
+
+shift + g (file end)
+p (start file)
+
+cat logfile | more (printable format log)
+
+grep -i "error" error_log
